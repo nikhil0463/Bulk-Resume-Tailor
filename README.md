@@ -89,12 +89,3 @@ Privacy note
 ------------
 The scripts send your resume and job descriptions to the Gemini API. Only run this on data you are comfortable sharing with the provider.
 
-Small ideas to improve
----------------------
-- Add retries and exponential backoff for API calls.
-- Add optional concurrency or batching while respecting rate limits.
-- Save tailored resumes as separate text files or PDFs.
-- Add simple unit tests for JSON parsing helpers.
-
-If you'd like, I can also add a `requirements.txt` and a `.env.example` file to make setup even easier — tell me which and I'll add them.
-

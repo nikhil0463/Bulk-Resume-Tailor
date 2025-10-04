@@ -1,0 +1,4 @@
+.env
+resume.pdf
+*.csv
+!jobs_summary.csv

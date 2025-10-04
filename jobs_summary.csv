@@ -1,0 +1,214 @@
+job_url,title,company,location,description,job_level
+https://www.linkedin.com/jobs/view/4306683329,Data Engineer,Ibotta,"Denver, CO","Ibotta is looking for a software\\-focused
+ **Data Engineer** 
+ to join our team and contribute to our mission to Make Every Purchase Rewarding. Accelerating development of our cutting\\-edge data platform as a leader in the Data Platform Organization, you will work with both engineering and analytics to develop and own stable, scalable, and approachable data platforms. We're looking for a self\\-motivated engineer who has a passion for enabling data mesh concepts while heavily leveraging AWS cloud and Databricks Lakehouse technologies. The data engineering team is central to delivering and maintaining our modern data, analytics, and decisioning platforms across Ibotta.
+   
+
+  
+
+ This position is located in Denver, Colorado as a hybrid position requiring 3 days in office, (Tuesday, Wednesday, and Thursday). Candidates must live in the United States.
+   
+
+  
+
+**What you will be doing:**
+* Work with cross\\-functional engineering teams to enable approachable and self\\-service data movement and access patterns
+* Provide guidance and assistance to stakeholders with building complex datasets that meet the business needs.
+* Identify, design, and implement process improvements including automating manual processes, optimizing data delivery, re\\-designing infrastructure for greater reliability and performance.
+* Work as a member of the Data Engineering squad to deliver product features and resolve data related technical issues.
+* Work with information security to keep our data secure.
+* Support the engineering of distributed systems, frameworks, and design patterns enabling efficient usage of Ibotta’s Data Lake
+* Use Scala or Python to utilize Spark to collect and manage data at scale
+* Help build and manage automation tools, data pipelines that meets Data Governance and Data Security Standards
+* Evangelize Data Engineering and supporting capabilities with Platform and Analytics teams.
+* Perform incident resolution and root cause analysis of critical outages. Implement solutions to systematic failures. Provide on\\-call support, including after\\-hours on a rotational basis.
+* Assist with documentation of the environments and data tooling that support our products.
+* Embrace and uphold Ibotta’s Core Values: Integrity, Boldness, Ownership, Teamwork, Transparency, \\& A good idea can come from anywhere
+
+
+**What we are looking for:**
+* 3\\+ years of experience in software development, preferably with Scala and Python. Preferred experience building/implementing data pipelines using Databricks
+* Bachelor’s degree in Computer Science, Engineering or a related field required
+* Experience being a key critical contributor participating in medium and large data projects from ideation to implementation
+* Preferred experience with event\\-driven architecture design patterns and practices
+* Experience in database design principles supported by strong SQL abilities
+* Experience building processes supporting data transformation, data structures, metadata, dependency, and workload management
+* Experience with the following a strong plus:
++ AWS Cloud Services; EC2, S3
++ Experience with Scala and Spark
++ Experience with Delta Lake, Apache Iceberg, or Apache Hudi
++ Message Brokers such as Kafka or Kinesis
++ ETL tools and processes (Airflow or other similar tools)
++ Infrastructure as code using Terraform, CloudFormation, etc
++ Experience building APIs and libraries
+
+* Agile (Kanban or Scrum) development experience
+
+
+**About Ibotta (""I bought a..."")**
+ Ibotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop – all while paying only when their campaigns directly result in a sale. American shoppers have earned over $1\\.8 billion through the IPN since 2012\\. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine.
+   
+
+  
+
+ To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com.
+   
+
+  
+
+  
+
+* This position is located in Denver, CO and includes competitive pay, flexible time off, benefits package (including medical, dental, vision), Lifestyle Spending Account, and 401k match. Denver office perks include paid parking, bagel Wednesdays, snacks and occasional meals.
+* Base compensation range: $110,000\\-126,000\\. Equity is included in overall compensation package. This compensation range is specific to the United States labor market and may be adjusted based on actual experience.
+* Ibotta is an Equal Opportunity Employer. Ibotta’s employment decisions are made without regard of race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected status.
+* Applicants must be currently authorized to work in the United States on a full\\-time basis.
+* For the security of our employees and the business, all employees are responsible for the secure handling of data in accordance with our security policies, identifying and reporting phishing attempts, as well as reporting security incidents to the proper channels.
+
+
+ \\#BI\\-Hybrid",mid-senior level
+https://www.linkedin.com/jobs/view/4306667862,Data Engineer,Moody's Corporation,"Charlotte, NC","At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in ratings and integrated risk assessment, we’re advancing AI to move from insight to action—enabling intelligence that not only understands complexity but responds to it. We decode risk to unlock opportunity, helping our clients navigate uncertainty with clarity, speed, and confidence.
+   
+
+  
+
+ If you are excited about this opportunity but do not meet every single requirement, please apply! You still may be a great fit for this role or other open roles. We are seeking candidates who model our values: invest in every relationship, lead with curiosity, champion diverse perspectives, turn inputs into actions, and uphold trust through integrity.
+   
+
+  
+
+**Skills And Qualifications**
+* 3–7 years of hands\\-on data engineering experience in development using Python and Pyspark
+* Experience in AWS cloud services like Glue, Lambda, MSK (Kafka), S3, Step functions, RDS, EKS
+* Experience in Databases like Postgres, SQL Server, Oracle, Sybase
+* Experience with SQL, performance tuning, queries, stored procedures, views, functions, and triggers
+* Ability to learn and use AI tools effectively
+* Understanding of Data pipelines, ETL processes, CI/CD DevOps process and tools like GitHub, Jenkins
+* Knowledge of Data modeling, Warehousing concepts and Agile/SCRUM methodology
+* Strong problem\\-solving and analytical skills
+
+
+**Education**
+* Bachelor's degree in computer science or a related field
+
+
+**Responsibilities**
+* Design, build, and maintain scalable data pipelines
+* Develop and optimize ETL workflows for data ingestion
+* Collaborate with product, app team and analysts to support data needs
+* Ensure data quality and integrity across systems
+* Implement data security and compliance measures
+* Monitor and troubleshoot data pipeline performance
+* Document data engineering processes and workflows
+* Stay updated with emerging data engineering technologies
+
+
+**About The Team**
+ The Moody’s Ratings Technology team delivers global technology services across all areas of Moody’s Ratings. The team’s mission is to deliver exceptional experiences and value for customers and employees by leveraging technology and innovation.
+   
+
+  
+
+ For US\\-based roles only: the anticipated hiring base salary range for this position is $94,800\\.00\\-$137,400\\.00, depending on factors such as experience, education, level, skills, and location. This range is based on a full\\-time position. In addition to base salary, this role is eligible for incentive compensation. Moody’s also offers a competitive benefits package, including not but limited to medical, dental, vision, parental leave, paid time off, a 401(k) plan with employee and company contribution opportunities, life, disability, and accident insurance, a discounted employee stock purchase plan, and tuition reimbursement.
+   
+
+  
+
+ Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, gender, age, religion or creed, national origin, ancestry, citizenship, marital or familial status, sexual orientation, gender identity, gender expression, genetic information, physical or mental disability, military or veteran status, or any other characteristic protected by law. Moody’s also provides reasonable accommodation to qualified individuals with disabilities or based on a sincerely held religious belief in accordance with applicable laws. If you need to inquire about a reasonable accommodation, or need assistance with completing the application process, please email accommodations@moodys.com. This contact information is for accommodation requests only, and cannot be used to inquire about the status of applications.
+   
+
+  
+
+ For San Francisco positions, qualified applicants with criminal histories will be considered for employment consistent with the requirements of the San Francisco Fair Chance Ordinance.
+   
+
+  
+
+ This position may be considered a promotional opportunity, pursuant to the Colorado Equal Pay for Equal Work Act.
+   
+
+  
+
+ Click here to view our full EEO policy statement. Click here for more information on your EEO rights under the law. Click here to view our Pay Transparency Nondiscrimination statement. Click here to view our Notice to New York City Applicants.
+   
+
+  
+
+ Candidates for Moody's Corporation may be asked to disclose securities holdings pursuant to Moody’s Policy for Securities Trading and the requirements of the position. Employment is contingent upon compliance with the Policy, including remediation of positions in those holdings as necessary.
+   
+
+  
+
+ For more information on the Securities Trading Program, please refer to the STP Quick Reference guide on ComplianceNet
+   
+
+  
+
+ Please note: STP categories are assigned by the hiring teams and are subject to change over the course of an employee’s tenure with Moody’s.",mid-senior level
+https://www.linkedin.com/jobs/view/4306676647,Associate Data Engineer,Moody's Corporation,"Charlotte, NC","At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in ratings and integrated risk assessment, we’re advancing AI to move from insight to action—enabling intelligence that not only understands complexity but responds to it. We decode risk to unlock opportunity, helping our clients navigate uncertainty with clarity, speed, and confidence.
+   
+
+  
+
+ If you are excited about this opportunity but do not meet every single requirement, please apply! You still may be a great fit for this role or other open roles. We are seeking candidates who model our values: invest in every relationship, lead with curiosity, champion diverse perspectives, turn inputs into actions, and uphold trust through integrity.
+   
+
+  
+
+**Skills And Qualifications**
+* 1–3 years of hands\\-on data engineering experience
+* Proficient in Python for data transformation, automation, and scripting tasks
+* SQL capabilities for complex querying, data analysis, and performance optimization
+* Hands\\-on experience with AWS services such as S3, Lambda, Glue, and Redshift, Step functions, SNS
+* Familiarity with AI/ML tools and frameworks, with a demonstrated ability to integrate them into data workflows
+* Understanding of data pipelines and ETL processes
+* Strong problem\\-solving and analytical skills
+* Working knowledge of dimensional modeling, star/snowflake schemas, and data warehousing best practices
+
+
+**Education**
+* Bachelor’s degree in computer science or a related field
+
+
+**Responsibilities**
+* Design, build, and maintain scalable data pipelines
+* Develop and optimize ETL workflows for data ingestion
+* Collaborate with data scientists and analysts to support data needs
+* Ensure data quality and integrity across systems
+* Implement data security and compliance measures
+* Monitor and troubleshoot data pipeline performance
+* Document data engineering processes and workflows
+* Stay updated with emerging data engineering technologies
+
+
+**About The Team**
+ The Moody’s Ratings Technology team delivers global technology services across all areas of Moody’s Ratings. The team’s mission is to deliver exceptional experiences and value for customers and employees by leveraging technology and innovation. Their vision is rooted in continuous growth, collaboration, and forward\\-thinking solutions. Core values include Collaboration, Results, Integrity, Trust, and Transparency.
+   
+
+  
+
+ For US\\-based roles only: the anticipated hiring base salary range for this position is $78,000\\.00 \\- $113,100\\.00, depending on factors such as experience, education, level, skills, and location. This range is based on a full\\-time position. In addition to base salary, this role is eligible for incentive compensation. Moody’s also offers a competitive benefits package, including not but limited to medical, dental, vision, parental leave, paid time off, a 401(k) plan with employee and company contribution opportunities, life, disability, and accident insurance, a discounted employee stock purchase plan, and tuition reimbursement.
+   
+
+  
+
+ Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, gender, age, religion or creed, national origin, ancestry, citizenship, marital or familial status, sexual orientation, gender identity, gender expression, genetic information, physical or mental disability, military or veteran status, or any other characteristic protected by law. Moody’s also provides reasonable accommodation to qualified individuals with disabilities or based on a sincerely held religious belief in accordance with applicable laws. If you need to inquire about a reasonable accommodation, or need assistance with completing the application process, please email accommodations@moodys.com. This contact information is for accommodation requests only, and cannot be used to inquire about the status of applications
+   
+
+  
+
+ For San Francisco positions, qualified applicants with criminal histories will be considered for employment consistent with the requirements of the San Francisco Fair Chance Ordinance.
+   
+
+  
+
+ This position may be considered a promotional opportunity, pursuant to the Colorado Equal Pay for Equal Work Act.
+   
+
+  
+
+ Click here to view our full EEO policy statement. Click here for more information on your EEO rights under the law. Click here to view our Pay Transparency Nondiscrimination statement. Click here to view our Notice to New York City Applicants.
+   
+
+  
+
+ Candidates for Moody's Corporation may be asked to disclose securities holdings pursuant to Moody’s Policy for Securities Trading and the requirements of the position. Employment is contingent upon compliance with the Policy, including remediation of positions in those holdings as necessary.",entry level
